@@ -1,2 +1,2 @@
-# Strona z ZSI
-...
+# WebPage created for my studies
+NOthing special, really
