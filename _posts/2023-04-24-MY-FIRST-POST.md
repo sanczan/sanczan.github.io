@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "My-First-Post"
-categories: POST
+categories: demo
 ---
+
 My first post created using github -_-
